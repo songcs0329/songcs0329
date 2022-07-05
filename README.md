@@ -2,10 +2,9 @@
 
 ### 👋 Hi I'm @songcs0329
 **Profile**
-###
-[About me](https://sincere-lasagna-7a6.notion.site/eea87537606d427297fb732715b5b5ef)
+[Profile](https://sincere-lasagna-7a6.notion.site/eea87537606d427297fb732715b5b5ef)
+
 **Interest In**
-###
 - React
 - JavaScript
 - TypeScript
