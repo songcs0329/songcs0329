@@ -2,7 +2,7 @@
 
 ### 👋 Hi I'm @songcs0329
 **Profile**
-[About Me](https://sincere-lasagna-7a6.notion.site/eea87537606d427297fb732715b5b5ef)
+[Notion Profile](https://sincere-lasagna-7a6.notion.site/eea87537606d427297fb732715b5b5ef)
 
 **Interest In**
 - React
