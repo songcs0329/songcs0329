@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&section=header&height=300&color=0:A0CEDE,100:0064A2&text=Changseok%20Song&fontColor=ffffff&fontSize=60&fontAlign=65&fontAlignY=35&desc=Frontend-Developer&descAlign=80&descAlignY=55)
 
 ### 👋 Hi I'm @songcs0329
-#### Profile
+#### 🙋🏻‍♂️ Profile
 [Notion Profile](https://sincere-lasagna-7a6.notion.site/eea87537606d427297fb732715b5b5ef)
 
-#### Interest In
+#### 😊 Interest In
 - React
 - JavaScript
 - TypeScript
