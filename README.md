@@ -6,6 +6,7 @@
 
 #### 😊 Interest In
 - React
+- Vue.js
 - JavaScript
 - TypeScript
 - Node.js
